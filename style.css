@@ -1,0 +1,77 @@
+body{
+    background-color: #ffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  width: 700px;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    }
+    .txt{ background-color: blue; color: aliceblue; border-top: 20px; border-bottom: 25px;
+
+    }
+   .txt .txt1{font-size: large; margin-right: 15pc;
+
+    }
+    .txt3{color: darkolivegreen;
+
+    }
+    .image {text-align: center    }
+    .image .a{width: 60px; border-radius: 100pc;
+
+    }
+    .image .none{display: none;}
+    .txt2{text-align: center;
+
+    }
+    
+    .txt2 .txt3{font-size: large;
+    }
+    .name{background-color: blue;
+    }
+    .name .name1{ padding-right: 30px;
+
+    }
+    .name0{padding-left: 30px;
+
+    }
+    .name .name3{font-size: large;
+
+    }
+    .name0{background-color: blue;
+    }
+    .name .name4{font-size: large;
+
+    }
+    .name .name5{font-size: large;
+    }
+    .userDescription{
+        display: flex;
+        justify-content: space-between; background-color: blue; color: aliceblue; padding: 20px;
+
+    }
+    .home{color: darkolivegreen;
+
+    }
+  
+    .Business{background-color: darkolivegreen; text-align: center;border-radius: 10px; color: aliceblue;
+
+    }
+    .Writer{background-color: darkolivegreen;border-radius: 10px;text-align: center ;color: aliceblue;
+
+    }
+    .Product{background-color: darkolivegreen;text-align: center;border-radius: 10px; color: aliceblue;
+
+    }
+    .userDescription1{ 
+        display: flex; justify-content: space-around;
+    }
+    .color{background-color: blue;color: aliceblue;text-align: center;
+
+    }
+
+    .pic img{
+        width:20px;
+        height: 20px;
+        margin-top: 30px;
+        }
