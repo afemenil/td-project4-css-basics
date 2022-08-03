@@ -1,23 +1,43 @@
 body{
     background-color: #ffff;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  width: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  object-fit: contain;
+    /* width: 700px;
     margin: 0 auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 0; */
     }
-    .txt{ background-color: blue; color: aliceblue; border-top: 20px; border-bottom: 25px;
+    .txt{background-color: rgb(5, 110, 238); color: aliceblue ;border-top: 20px; border-bottom: 25px;padding: 20px;
 
     }
-   .txt .txt1{font-size: large; margin-right: 15pc;
+    
+   .txt .txt1{font-size: large; padding-right: 900pt;
+
+    }
+    .game{padding-top: 30px; padding-bottom: 25px;
+
+    }
+    .txt .txt11{padding: 10px;
+
+    }
+    .txt .txt12{padding: 10px;
+
+    }
+    .txt .txt13{padding: 10px;
+
+    }
+    .txt .txt14{padding: 10px;
+
+    }
+    .txt2 .a{width: 20px;
 
     }
     .txt3{color: darkolivegreen;
 
     }
     .image {text-align: center    }
-    .image .a{width: 60px; border-radius: 100pc;
+    .image .a{width: 70px; border-radius: 100pc;
 
     }
     .image .none{display: none;}
@@ -25,20 +45,24 @@ body{
 
     }
     
+    
     .txt2 .txt3{font-size: large;
     }
-    .name{background-color: blue;
+    .name{background-color: rgb(5, 110, 238);
     }
-    .name .name1{ padding-right: 30px;
+    .name .name1{ padding-right: 20px;margin-left: 120pt;
 
     }
     .name0{padding-left: 30px;
 
     }
+    .name2{margin-left: 120pt; margin-right: 500pt; padding-top: 10pt;
+
+    }
     .name .name3{font-size: large;
 
     }
-    .name0{background-color: blue;
+    .name0{background-color: rgb(5, 110, 238); margin-right: 40px; padding-right: 200pt;margin-left: 50pt;
     }
     .name .name4{font-size: large;
 
@@ -47,26 +71,27 @@ body{
     }
     .userDescription{
         display: flex;
-        justify-content: space-between; background-color: blue; color: aliceblue; padding: 20px;
+        justify-content: space-between; background-color: rgb(5, 110, 238); color: aliceblue;object-fit: contain ;padding: 20px;
 
     }
     .home{color: darkolivegreen;
 
     }
   
-    .Business{background-color: darkolivegreen; text-align: center;border-radius: 10px; color: aliceblue;
+    .Business{background-color: darkolivegreen; text-align: center;border-radius: 10px;margin: 20px ;color: aliceblue;
 
     }
-    .Writer{background-color: darkolivegreen;border-radius: 10px;text-align: center ;color: aliceblue;
+    .Writer{background-color: darkolivegreen;border-radius: 10px;text-align: center ;margin: 25px ;padding: 20px ;padding: 25px ;color: aliceblue;
 
     }
-    .Product{background-color: darkolivegreen;text-align: center;border-radius: 10px; color: aliceblue;
+    .Product{background-color: darkolivegreen;text-align: center;border-radius: 10px;margin: 20px ;color: aliceblue;
 
     }
-    .userDescription1{ 
-        display: flex; justify-content: space-around;
+    .userDescription1{
+        display: flex; justify-content: space-around; 
     }
-    .color{background-color: blue;color: aliceblue;text-align: center;
+    
+    .color{background-color: rgb(5, 110, 238);color: aliceblue;text-align: center;
 
     }
 
